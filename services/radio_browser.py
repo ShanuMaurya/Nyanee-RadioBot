@@ -1,6 +1,5 @@
-
 import requests
-API='https://de1.api.radio-browser.info/json'
+API='https://all.api.radio-browser.info/json'
 
 def search(query, limit=25):
     try:
